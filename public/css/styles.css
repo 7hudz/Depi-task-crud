@@ -1,0 +1,31 @@
+.hero {
+    background-image: url('/images/background1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0;
+  
+    text-align: center;
+}
+
+.features-icon {
+    font-size: 4rem;
+    color: #0d6efd;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+.display-4{
+    font-weight: bold;
+    color: #ffffff;
+}
+.lead {
+    font-weight: bold;
+    color: #ffffff;
+}
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
